@@ -1,6 +1,6 @@
 /* paragraph 스타일 지정 */
 p {
-    color:darkcyan;
+    color:black;
 }
 
 a { 
@@ -11,4 +11,5 @@ a {
 
 p.song {
     font-style: italic;
+    color:lightskyblue;
 }
