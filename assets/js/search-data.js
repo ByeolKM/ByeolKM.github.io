@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-markdown-문법-기초",
+            },{id: "post-애리조나-주요-도시",
+        
+          title: "애리조나 주요 도시",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/arizonacities/";
+          
+        },
+      },{id: "post-markdown-문법-기초",
         
           title: "Markdown 문법 기초",
         
