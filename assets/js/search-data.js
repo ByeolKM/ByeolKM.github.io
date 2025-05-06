@@ -72,9 +72,9 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-my-first-jekyll-blog-post",
+            },{id: "post-나의-첫-jekyll-블로그-포스트",
         
-          title: "My First Jekyll Blog Post",
+          title: "나의 첫 Jekyll 블로그 포스트",
         
         description: "",
         section: "Posts",
